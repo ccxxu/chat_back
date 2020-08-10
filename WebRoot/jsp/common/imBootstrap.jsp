@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/resources/bootstrap-3.3.5/css/bootstrap.min.css"/>
+<script type="text/javascript" src="<%=request.getContextPath() %>/resources/bootstrap-3.3.5/js/bootstrap.min.js"></script>

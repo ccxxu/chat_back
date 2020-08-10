@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/resources/Validform/css/style.css"/>
+<script type="text/javascript" src="<%=request.getContextPath() %>/resources/Validform/Validform_v5.3.2.js"></script>

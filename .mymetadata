@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xypt_im"
+  id="myeclipse.1448851574592"
+  context-root="/im"
+  j2ee-spec="5.0"
+  archive="xypt_im.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
